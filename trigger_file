@@ -1,1 +1,2 @@
-echo " I am a new file in jenkins_demo repo to trigger pipeline on jenkins  through jenkinsfile on github ..."
+echo " I am a new file in jenkins_demo repo to trigger pipeline on jenkins  through jenkinsfile on github 
+adding a new change on sunday..."
